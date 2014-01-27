@@ -1,0 +1,35 @@
+--------------------------------------------------------
+--  File created - Monday-December-16-2013   
+--------------------------------------------------------
+REM INSERTING into "exams"
+SET DEFINE OFF;
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (1,2,'Math',80,'Could Do Better',to_timestamp('2013-12-16 15:13:55.0','null'),to_timestamp('2013-12-16 15:13:55.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (2,2,'Physics',90,'Good Job',to_timestamp('2013-12-16 15:13:55.0','null'),to_timestamp('2013-12-16 15:13:55.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (3,3,'Math',60,'Poor Performance',to_timestamp('2013-12-16 15:13:55.0','null'),to_timestamp('2013-12-16 15:13:55.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (4,2,'Gym',100,'Test - Adam Aaronson',to_timestamp('2013-12-16 15:55:22.0','null'),to_timestamp('2013-12-16 15:55:22.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (5,3,'Gym',75,'75 - Ben',to_timestamp('2013-12-16 15:56:02.0','null'),to_timestamp('2013-12-16 15:56:02.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (6,3,'Art',74,'74 - Ben',to_timestamp('2013-12-16 15:56:16.0','null'),to_timestamp('2013-12-16 15:56:16.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (7,4,'Test',100,'Test Carl',to_timestamp('2013-12-16 15:58:28.0','null'),to_timestamp('2013-12-16 15:58:28.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (8,6,'English',88,'Good Job!',to_timestamp('2013-12-16 16:14:54.0','null'),to_timestamp('2013-12-16 16:14:54.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (9,4,'test',100,'test',to_timestamp('2013-12-16 16:42:37.0','null'),to_timestamp('2013-12-16 16:42:37.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (10,8,'test',100,'test',to_timestamp('2013-12-16 16:42:55.0','null'),to_timestamp('2013-12-16 16:42:55.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (11,8,'test',7,'test',to_timestamp('2013-12-16 16:43:55.0','null'),to_timestamp('2013-12-16 16:43:55.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (12,8,'Phyrics',95,'Great Job',to_timestamp('2013-12-16 16:45:46.0','null'),to_timestamp('2013-12-16 16:45:46.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (13,4,'Lunch',100,'Ate Well',to_timestamp('2013-12-16 16:46:11.0','null'),to_timestamp('2013-12-16 16:46:11.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (14,5,'Economics',15,'Try Harder',to_timestamp('2013-12-16 16:46:30.0','null'),to_timestamp('2013-12-16 16:46:30.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (15,5,'Finance',100,'Good Job!',to_timestamp('2013-12-16 16:46:53.0','null'),to_timestamp('2013-12-16 16:46:53.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (16,5,'French',92,'Bon Job!',to_timestamp('2013-12-16 16:47:05.0','null'),to_timestamp('2013-12-16 16:47:05.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (17,6,'Spanish',61,'Aye Caramba!',to_timestamp('2013-12-16 16:47:49.0','null'),to_timestamp('2013-12-16 16:47:49.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (18,6,'Psychology',100,'Freud Would Love it!',to_timestamp('2013-12-16 16:48:01.0','null'),to_timestamp('2013-12-16 16:48:01.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (19,7,'Music',75,'Just made it!',to_timestamp('2013-12-16 16:48:24.0','null'),to_timestamp('2013-12-16 16:48:24.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (20,7,'Baking',100,'Delicious',to_timestamp('2013-12-16 16:49:02.0','null'),to_timestamp('2013-12-16 16:49:02.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (21,7,'Philosophy',100,'YEs',to_timestamp('2013-12-16 16:49:16.0','null'),to_timestamp('2013-12-16 16:49:16.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (22,9,'Rhyming',100,'Me my Fo Farry, Barry!',to_timestamp('2013-12-16 16:49:34.0','null'),to_timestamp('2013-12-16 16:49:34.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (23,9,'Literature',7,'You May Be Illiterate!',to_timestamp('2013-12-16 16:49:51.0','null'),to_timestamp('2013-12-16 16:49:51.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (24,9,'PLayground',100,'Yes',to_timestamp('2013-12-16 16:50:03.0','null'),to_timestamp('2013-12-16 16:50:03.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (25,1,'Chemistry',100,'Aced it!',to_timestamp('2013-12-16 16:50:47.0','null'),to_timestamp('2013-12-16 16:50:47.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (26,1,'Italian',100,'Molto Bene',to_timestamp('2013-12-16 16:50:55.0','null'),to_timestamp('2013-12-16 16:50:55.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (27,1,'Art',63,'Sorry!',to_timestamp('2013-12-16 16:51:05.0','null'),to_timestamp('2013-12-16 16:51:05.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (28,10,'Reading',100,'Good',to_timestamp('2013-12-16 16:51:35.0','null'),to_timestamp('2013-12-16 16:51:35.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (29,10,'test',100,'test',to_timestamp('2013-12-16 16:51:48.0','null'),to_timestamp('2013-12-16 16:51:48.0','null'));
+Insert into "exams" ("id","students_id","subject","grade","teachers_note","created_at","updated_at") values (30,10,'Literatire',100,'Yes',to_timestamp('2013-12-16 16:51:57.0','null'),to_timestamp('2013-12-16 16:51:57.0','null'));
